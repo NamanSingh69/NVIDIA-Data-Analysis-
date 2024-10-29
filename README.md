@@ -380,10 +380,6 @@ Contributions are welcome! If you'd like to enhance this project, please follow 
 
 Please ensure your contributions adhere to the project's coding standards and include relevant documentation.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 **Disclaimer:** This analysis is for educational and informational purposes only. It does not constitute financial advice. Always consult with a professional financial advisor before making investment decisions.
