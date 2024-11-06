@@ -184,7 +184,7 @@ To set up and run the **NVIDIA Share Analysis** project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/nvidia-share-analysis.git
+   git clone https://github.com/NamanSingh69/nvidia-share-analysis.git
    cd nvidia-share-analysis
    ```
 
